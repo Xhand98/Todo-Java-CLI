@@ -1,7 +1,7 @@
 
 ---
 
-# Todo Application
+# Todo-Java-CLI
 
 Este proyecto es una aplicación de consola para gestionar tareas pendientes (Todo) utilizando Java. La aplicación permite a los usuarios crear, ver, actualizar, eliminar y marcar tareas como completadas, almacenándolas en una base de datos SQL Server.
 
